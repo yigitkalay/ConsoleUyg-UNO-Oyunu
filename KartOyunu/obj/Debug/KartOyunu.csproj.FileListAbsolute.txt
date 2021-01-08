@@ -1,0 +1,48 @@
+C:\Users\ygtka\Desktop\Programlama 2\KartOyunu\KartOyunu\bin\Debug\KartOyunu.exe.config
+C:\Users\ygtka\Desktop\Programlama 2\KartOyunu\KartOyunu\bin\Debug\KartOyunu.exe
+C:\Users\ygtka\Desktop\Programlama 2\KartOyunu\KartOyunu\bin\Debug\KartOyunu.pdb
+C:\Users\ygtka\Desktop\Programlama 2\KartOyunu\KartOyunu\obj\Debug\KartOyunu.csprojAssemblyReference.cache
+C:\Users\ygtka\Desktop\Programlama 2\KartOyunu\KartOyunu\obj\Debug\KartOyunu.exe
+C:\Users\ygtka\Desktop\Programlama 2\KartOyunu\KartOyunu\obj\Debug\KartOyunu.pdb
+C:\Users\ygtka\Desktop\KartOyunu deneme\KartOyunu\bin\Debug\KartOyunu.exe.config
+C:\Users\ygtka\Desktop\KartOyunu deneme\KartOyunu\bin\Debug\KartOyunu.exe
+C:\Users\ygtka\Desktop\KartOyunu deneme\KartOyunu\bin\Debug\KartOyunu.pdb
+C:\Users\ygtka\Desktop\KartOyunu deneme\KartOyunu\obj\Debug\KartOyunu.csprojAssemblyReference.cache
+C:\Users\ygtka\Desktop\KartOyunu deneme\KartOyunu\obj\Debug\KartOyunu.exe
+C:\Users\ygtka\Desktop\KartOyunu deneme\KartOyunu\obj\Debug\KartOyunu.pdb
+C:\Users\ygtka\Desktop\KartOyunu Class\KartOyunu\obj\Debug\KartOyunu.csprojAssemblyReference.cache
+C:\Users\ygtka\Desktop\KartOyunu Class\KartOyunu\obj\Debug\KartOyunu.exe
+C:\Users\ygtka\Desktop\KartOyunu Class\KartOyunu\obj\Debug\KartOyunu.pdb
+C:\Users\ygtka\Desktop\KartOyunu Class\KartOyunu\bin\Debug\KartOyunu.exe.config
+C:\Users\ygtka\Desktop\KartOyunu Class\KartOyunu\bin\Debug\KartOyunu.exe
+C:\Users\ygtka\Desktop\KartOyunu Class\KartOyunu\bin\Debug\KartOyunu.pdb
+C:\Users\ygtka\Desktop\KartOyunu Class - Kopya\KartOyunu\bin\Debug\KartOyunu.exe.config
+C:\Users\ygtka\Desktop\KartOyunu Class - Kopya\KartOyunu\bin\Debug\KartOyunu.exe
+C:\Users\ygtka\Desktop\KartOyunu Class - Kopya\KartOyunu\bin\Debug\KartOyunu.pdb
+C:\Users\ygtka\Desktop\KartOyunu Class - Kopya\KartOyunu\obj\Debug\KartOyunu.csprojAssemblyReference.cache
+C:\Users\ygtka\Desktop\KartOyunu Class - Kopya\KartOyunu\obj\Debug\KartOyunu.exe
+C:\Users\ygtka\Desktop\KartOyunu Class - Kopya\KartOyunu\obj\Debug\KartOyunu.pdb
+C:\Users\ygtka\Desktop\KartOyunu Class - Class - Kopya\KartOyunu\bin\Debug\KartOyunu.exe.config
+C:\Users\ygtka\Desktop\KartOyunu Class - Class - Kopya\KartOyunu\bin\Debug\KartOyunu.exe
+C:\Users\ygtka\Desktop\KartOyunu Class - Class - Kopya\KartOyunu\bin\Debug\KartOyunu.pdb
+C:\Users\ygtka\Desktop\KartOyunu Class - Class - Kopya\KartOyunu\obj\Debug\KartOyunu.csprojAssemblyReference.cache
+C:\Users\ygtka\Desktop\KartOyunu Class - Class - Kopya\KartOyunu\obj\Debug\KartOyunu.exe
+C:\Users\ygtka\Desktop\KartOyunu Class - Class - Kopya\KartOyunu\obj\Debug\KartOyunu.pdb
+C:\Users\ygtka\Desktop\KartOyunu Yiğit Kalay\KartOyunu\bin\Debug\KartOyunu.exe.config
+C:\Users\ygtka\Desktop\KartOyunu Yiğit Kalay\KartOyunu\bin\Debug\KartOyunu.exe
+C:\Users\ygtka\Desktop\KartOyunu Yiğit Kalay\KartOyunu\bin\Debug\KartOyunu.pdb
+C:\Users\ygtka\Desktop\KartOyunu Yiğit Kalay\KartOyunu\obj\Debug\KartOyunu.csprojAssemblyReference.cache
+C:\Users\ygtka\Desktop\KartOyunu Yiğit Kalay\KartOyunu\obj\Debug\KartOyunu.exe
+C:\Users\ygtka\Desktop\KartOyunu Yiğit Kalay\KartOyunu\obj\Debug\KartOyunu.pdb
+C:\Users\ygtka\Desktop\Yiğit Kalay 1030510201\KartOyunu\bin\Debug\KartOyunu.exe.config
+C:\Users\ygtka\Desktop\Yiğit Kalay 1030510201\KartOyunu\bin\Debug\KartOyunu.exe
+C:\Users\ygtka\Desktop\Yiğit Kalay 1030510201\KartOyunu\bin\Debug\KartOyunu.pdb
+C:\Users\ygtka\Desktop\Yiğit Kalay 1030510201\KartOyunu\obj\Debug\KartOyunu.csprojAssemblyReference.cache
+C:\Users\ygtka\Desktop\Yiğit Kalay 1030510201\KartOyunu\obj\Debug\KartOyunu.exe
+C:\Users\ygtka\Desktop\Yiğit Kalay 1030510201\KartOyunu\obj\Debug\KartOyunu.pdb
+C:\Users\ygtka\Desktop\Programlama 2\Yiğit Kalay 1030510201\KartOyunu\bin\Debug\KartOyunu.exe.config
+C:\Users\ygtka\Desktop\Programlama 2\Yiğit Kalay 1030510201\KartOyunu\bin\Debug\KartOyunu.exe
+C:\Users\ygtka\Desktop\Programlama 2\Yiğit Kalay 1030510201\KartOyunu\bin\Debug\KartOyunu.pdb
+C:\Users\ygtka\Desktop\Programlama 2\Yiğit Kalay 1030510201\KartOyunu\obj\Debug\KartOyunu.csprojAssemblyReference.cache
+C:\Users\ygtka\Desktop\Programlama 2\Yiğit Kalay 1030510201\KartOyunu\obj\Debug\KartOyunu.exe
+C:\Users\ygtka\Desktop\Programlama 2\Yiğit Kalay 1030510201\KartOyunu\obj\Debug\KartOyunu.pdb
